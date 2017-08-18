@@ -1,0 +1,1 @@
+{"front":"5 + 5 = ? ","back":"10","type":"basic"};{"text":"We are the champions","cloze":"We","clozeDeleted":"_____ are the champions","type":"cloze"};{"front":"12 + 18 = ","back":"30","type":"basic"};{"front":" 2 + 2 =","back":"4","type":"basic"};

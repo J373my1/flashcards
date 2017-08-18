@@ -1,0 +1,22 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ClozeCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J373my1/flashcards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J373my1/flashcards/issues"
+  },
+  "homepage": "https://github.com/J373my1/flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1"
+  }
+}
